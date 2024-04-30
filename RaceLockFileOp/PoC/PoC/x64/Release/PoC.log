@@ -1,0 +1,17 @@
+﻿  FileOplock.cpp
+  Source.cpp
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(120,21): warning C4477: '_swprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'RPC_WSTR'
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(127,48): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(129,67): warning C4267: 'argument': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(221,28): warning C4244: '=': conversion from 'SIZE_T' to 'USHORT', possible loss of data
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(224,55): warning C4244: '=': conversion from 'SIZE_T' to 'USHORT', possible loss of data
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(230,59): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(205,9): warning C4101: 'hJunction': unreferenced local variable
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(248,18): warning C4101: 'io': unreferenced local variable
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(642,30): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\Source.cpp(186): warning C4172: returning address of local variable or temporary: ntpath
+  All 260 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PoC.vcxproj -> C:\Users\katvandamme\source\repos\OffsecDev-main\cpp\arbwork\Arbysdeletesandwich\SC-PoC\x64\Release\PoC.exe
